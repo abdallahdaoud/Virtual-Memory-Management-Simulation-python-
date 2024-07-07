@@ -5,7 +5,7 @@
 3. page replacement algorithms
 4. more OS concepts
 
-## used libraris
+## used Libraries
 1. platform
 2. math
 3. random
