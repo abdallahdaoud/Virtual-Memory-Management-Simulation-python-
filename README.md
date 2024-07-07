@@ -6,10 +6,10 @@
 4. more OS concepts
 
 ## used libraris
-platform
-math
-random
-tkinter
-time
-threading
-winsound
+1. platform
+2. math
+3. random
+4. tkinter
+5. time
+6. threading
+7. winsound
